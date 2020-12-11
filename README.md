@@ -1,12 +1,6 @@
-# ScrapyRepo
-Scrapy Project for NYCDSA
+NYC Data Science Academy
+Submission #2
 
-# Online Data Science Bootcamp
-# September Cohort
-
-Created by: Martin Kihn
-
-Project Submission:
 # WEB SCRAPING PROJECT
 
 # PROJECT DESCRIPTION
